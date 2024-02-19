@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+    color: rgb(249, 247, 247);
+.}
+.LOGO {
+    font-weight: bold;
+}
+
+.btn2 {
+    color: rgb(218, 213, 213);
+    border: 1 px solid rgb(206, 185, 185);
+}
+#column1 {
+    display: flex;
+}
+.card-title{
+    color: rgb(225, 0, 0);
+
+}
+.card-title{
+    color: rgb(216, 13, 13);
+
+}
+.text-centermt-5{
+    color: rgb(186, 15, 15);
+    text-align: center;
+    margin-top: 20px;
+
+}
